@@ -1,4 +1,4 @@
-# 🎯 Connect Four in React
+# 🎯 Connect Four
 
 Welcome to my React-based **Connect Four** game! This project is a modern recreation of the classic two-player strategy game using **ReactJS**, **HTML**, and **CSS**. It focuses on building a fully functional, interactive board game with core logic implemented in React components.
 
